@@ -1,2 +1,5 @@
 masterで変更
 clone_masterで変更
+clone_masterで変更2
+
+clone_issue2で変更
