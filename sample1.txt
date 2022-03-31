@@ -1,2 +1,3 @@
 masterで変更
 issue1で変更
+branch_push issue1で変更
